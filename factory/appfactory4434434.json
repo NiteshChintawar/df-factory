@@ -1,0 +1,9 @@
+{
+	"name": "appfactory4434434",
+	"location": "westus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "be369420-4236-4019-a999-da199c4f91b9",
+		"tenantId": "5217e0e7-539d-4563-b1bf-7c6dcf074f91"
+	}
+}
